@@ -1,4 +1,4 @@
-# Hacker rank and me
+# Hacker rank, Python and me
 
 Solution of the problems set in [Hacker rank](https://www.hackerrank.com). This implementations are an exercise for me to better understand and apply Python to solve problems in general.
 
