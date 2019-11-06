@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Folders
+data/
+hdf5_dayly_data_2008/
